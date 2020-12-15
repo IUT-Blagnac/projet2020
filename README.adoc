@@ -54,7 +54,7 @@ cette application en (cf. détails juste après cette liste) :
 
 TIP: Commencez simplement, et documentez au fur et à mesure votre README.
 
-TIP: Pour vous aider, anticipez l'évolution du code en regardant dans le dépôt d'origine les fonctionnalités supplémentaires envisagées. 
+TIP: Pour vous aider, anticipez l'évolution du code en regardant dans le dépôt d'origine les fonctionnalités supplémentaires envisagées (cf. https://github.com/codurance/task-list#features). 
 Vous pourrez en implémenter certaines pour démontrer la pertinence de vos modifications 
 endif::[]
 
